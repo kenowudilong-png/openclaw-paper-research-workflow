@@ -13,9 +13,9 @@
 
 ## 适合的使用方式
 
-1. 你把这个仓库发给朋友
-2. 朋友让自己的 OpenClaw 读取这个仓库并运行安装脚本
-3. 朋友提供自己的 Notion Integration Token 和 Notion 数据库链接
+1. 把这个仓库链接发给 OpenClaw
+2. 让 OpenClaw 读取这个仓库并运行安装脚本
+3. 用户提供自己的 Notion Integration Token 和 Notion 数据库链接
 4. OpenClaw 完成配置后，就能直接用自然语言跑完整流程
 
 ## 快速安装
