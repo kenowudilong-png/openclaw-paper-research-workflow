@@ -1,0 +1,4 @@
+scholarly
+scidownl
+requests
+PySocks

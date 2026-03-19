@@ -1,0 +1,12 @@
+.DS_Store
+私人与共享/
+__pycache__/
+*.pyc
+.venv/
+.env
+dist/
+build/
+paper-research-output/
+skills/paper-research-workflow/.venv/
+skills/paper-research-workflow/.env
+skills/paper-research-workflow/output/
